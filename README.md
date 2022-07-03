@@ -11,5 +11,11 @@ git clone https://github.com/youhong99/force_riscv <PREFERRED LOCATION>
 ## **Setup**
 Automated setup for Python, G++, GitHub packages, FORCE_RISCV, RISCV_TOOLCHAIN using [FORCE_SETUP.sh](/FORCE_SETUP.sh)
 
+## **Simulate**
+Automated test template to test case generation, simulation, and coverage collection using [SIMULATE_CASE.sh](/SIMULATE_CASE.sh)
+```
+EXECUTION: SIMULATE_CASE.sh <TEST_TEMPLATE_force.py>
+```
+
 ## **Clean up**
 Clean directory after test case generation using [CLEAN_UP.sh](/CLEAN_UP.sh)
