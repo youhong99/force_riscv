@@ -22,4 +22,4 @@ EXECUTION: SIMULATE_CASE.sh <TEST_TEMPLATE_force.py>
 Clean directory after test case generation using [CLEAN_UP.sh](/CLEAN_UP.sh)
 
 ## **Reference Templates**
-Reference for several types/formats for test case generation
+Reference for several types/formats for test case generation can be found in [REFERENCE_TEMPLATE](/REFERENCE_TEMPLATE)
