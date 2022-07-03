@@ -13,7 +13,7 @@ Automated setup for Python, G++, GitHub packages, FORCE_RISCV, RISCV_TOOLCHAIN u
 
 
 ## **Simulate**
-Automated test template to test case generation, simulation, and coverage collection using [SIMULATE_CASE.sh](/SIMULATE_CASE.sh)
+Automated test template to test case generation, simulation, and coverage collection using [SIMULATE_TEST.sh](/SIMULATE_TEST.sh)
 ```
 EXECUTION: SIMULATE_CASE.sh <TEST_TEMPLATE_force.py>
 ```
