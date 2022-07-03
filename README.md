@@ -20,3 +20,6 @@ EXECUTION: SIMULATE_CASE.sh <TEST_TEMPLATE_force.py>
 
 ## **Clean up**
 Clean directory after test case generation using [CLEAN_UP.sh](/CLEAN_UP.sh)
+
+## **Reference Templates**
+Reference for several types/formats for test case generation
