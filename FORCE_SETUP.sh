@@ -6,6 +6,7 @@ sudo apt-get install python3.8
 sudo apt-get install python3-dev
 sudo apt-get install g++
 sudo apt install git
+sudo apt install -y make
 
 echo Successful package installation -------------------------------
 sleep 2
